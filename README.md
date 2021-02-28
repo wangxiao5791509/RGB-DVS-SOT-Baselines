@@ -36,6 +36,7 @@ Download the file from: [[MANet_VisEvent_master.tar.gz](https://github.com/wangx
 Download the file from: [[pyVITAL-VisEvent-master](https://github.com/wangxiao5791509/RTMDNet_DualModality_Python3/blob/main/pyVITAL-VisEvent-master.tar.gz)] 
 
 ## 9. Correlation Filter based VisEvent Tracking: 
+#### (10 trackers are supported: 1. KCF_HOG  2. STRCF  3. MOSSE  4. CSK  5. CN  6. DAT  7. ECO-HC  8. BACF  9. CSRDCF  10. LDES)
 Download the file from: [[pyCFTrackers_visEvent_master.tar.gz](https://stuahueducn-my.sharepoint.com/:u:/g/personal/e16101002_stu_ahu_edu_cn/EQkM6Jn0GYdChbDwBnlo85wBT_ohNe7EMMt7mRmj2g1Qxg?e=Jc83d6)] 
 
 
