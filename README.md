@@ -23,6 +23,9 @@ Download the file: realtimeMDNet-visEvent-CMT(ALL)-python3.tar.gz (based on Visi
 Download the file: [[pyMDNet-VisEvent-master.tar.gz](https://github.com/wangxiao5791509/RTMDNet_DualModality_Python3/blob/main/pyMDNet-VisEvent-master.tar.gz
 )] 
 
-## 5. VisEvent Tracking (Meta-Tracker): 
+## 5. VisEvent Tracking (Meta-Tracker):
+
+## 6. SiamFC based VisEvent tracking: 
+Download the file from: [[visEvent_siamfc_pytorch.tar.gz](https://github.com/wangxiao5791509/RTMDNet_DualModality_Python3/blob/main/visEvent_siamfc_pytorch.tar.gz)]
 
 
