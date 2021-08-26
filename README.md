@@ -7,14 +7,12 @@ PyTorch implementation of  (Binary Classification based Tracking Algorithm) base
 Download the file: realtimeMDNet-python3.tar.gz
 
 #### 2. Real-Time MDNet: Dual-Modality Version: 
-![fig-1](https://github.com/wangxiao5791509/RTMDNet_DualModality_Python3/blob/main/pipelinev2.png)
+<img src="https://github.com/wangxiao5791509/RTMDNet_DualModality_Python3/blob/main/pipelinev2.png" width="600"> 
 Download the file: realtimeMDNet-visEvent-python3.x.tar.gz (based on Visible and Event images) 
 
-
 #### 3. Real-Time MDNet: Cross-Modality Transformer based Dual-Modality Fusion Version: 
-![fig-1](https://github.com/wangxiao5791509/RTMDNet_DualModality_Python3/blob/main/pipelinev3.png)
+<img src="https://github.com/wangxiao5791509/RTMDNet_DualModality_Python3/blob/main/pipelinev3.png" width="600"> 
 Download the file: realtimeMDNet-visEvent-CMT(ALL)-python3.tar.gz (based on Visible and Event images)
-
 
 #### 4. pyMDNet:VisEvent Tracking: 
 Download the file: [[pyMDNet-VisEvent-master.tar.gz](https://github.com/wangxiao5791509/RTMDNet_DualModality_Python3/blob/main/pyMDNet-VisEvent-master.tar.gz
