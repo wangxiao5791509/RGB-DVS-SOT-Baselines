@@ -3,7 +3,7 @@ PyTorch implementation of  (Binary Classification based Tracking Algorithm) base
 
 
 #### 1. Real-Time MDNet: Single Modality Version: 
-![fig-1](https://github.com/wangxiao5791509/RTMDNet_DualModality_Python3/blob/main/rtmdnet.png)
+<img src="https://github.com/wangxiao5791509/RTMDNet_DualModality_Python3/blob/main/rtmdnet.png" width="400"> 
 Download the file: realtimeMDNet-python3.tar.gz
 
 #### 2. Real-Time MDNet: Dual-Modality Version: 
