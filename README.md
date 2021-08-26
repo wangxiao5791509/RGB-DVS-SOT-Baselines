@@ -1,5 +1,5 @@
 # Dual-Modaltiy Single Object Tracking using Python3 
-PyTorch implementation of  (Binary Classification based Tracking Algorithm) based on Python 3. 
+Part of PyTorch implementation of baseline trackers used in VisEvent single object tracking benchmark [[VisEvent-SOT-Benchmark](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)]
 
 
 #### 1. Real-Time MDNet: Single Modality Version: 
