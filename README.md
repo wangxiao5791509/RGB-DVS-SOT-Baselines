@@ -39,5 +39,17 @@ Download the file from: [[pyVITAL-VisEvent-master](https://github.com/wangxiao57
 Download the file from: [[pyCFTrackers_visEvent_master.tar.gz](https://stuahueducn-my.sharepoint.com/:u:/g/personal/e16101002_stu_ahu_edu_cn/EQkM6Jn0GYdChbDwBnlo85wBT_ohNe7EMMt7mRmj2g1Qxg?e=Jc83d6)] 
 
 
+## :page_with_curl: BibTex: 
+If you find this work useful for your research, please cite the following papers: 
 
+```bibtex
+@article{wang2021viseventbenchmark,
+  title={VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows},
+  author={Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu},
+  journal={arXiv:2108.05015},
+  year={2021}
+}
+```
+
+If you have any questions about this work, please submit an issue or contact me via **Email**: wangxiaocvpr@foxmail.com, or **wechat**: wangxiao5791509. Thanks for your attention! 
 
