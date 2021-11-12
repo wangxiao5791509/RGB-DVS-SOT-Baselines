@@ -1,5 +1,9 @@
 # Dual-Modaltiy Single Object Tracking using Python3 
-Part of PyTorch implementation of baseline trackers used in VisEvent single object tracking benchmark [[VisEvent-SOT-Benchmark](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)]
+This gigthub provides part of PyTorch implementation of baseline trackers used in VisEvent single object tracking benchmark [[VisEvent-SOT-Benchmark](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)]
+
+> **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu 
+> **[[Paper](https://arxiv.org/pdf/2108.05015.pdf)] [[Project](https://sites.google.com/view/viseventtrack/)] [[DemoVideo](https://www.youtube.com/watch?v=U4uUjci9Gjc)] [[VideoTutorial](https://www.youtube.com/watch?v=vGwHI2d2AX0&ab_channel=XiaoWang)]** 
+
 
 
 #### 1. Real-Time MDNet: Single Modality Version: 
