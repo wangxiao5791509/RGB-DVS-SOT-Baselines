@@ -51,5 +51,5 @@ If you find this work useful for your research, please cite the following papers
 }
 ```
 
-If you have any questions about this work, please submit an issue or contact me via **Email**: wangxiaocvpr@foxmail.com, or **wechat**: wangxiao5791509. Thanks for your attention! 
+If you have any questions about this work, please submit an issue or contact me via **Email**: wangxiaocvpr@foxmail.com. Thanks for your attention! 
 
